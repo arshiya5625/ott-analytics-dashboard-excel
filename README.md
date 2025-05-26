@@ -36,7 +36,6 @@ This project uses Microsoft Excel to analyze data from multiple OTT platforms (N
 - Prime Video has top-rated titles (avg. RT rating)
 - Content production spiked around 2018
 - Family-friendly movies with RT ≥ 85 are rare and valuable
-- ![recommendation table](recommendationtable.png)
 
 ## 🖼 Dashboard Preview
 ![Dashboard Preview](dashboard.png)
